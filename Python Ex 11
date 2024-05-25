@@ -10,4 +10,4 @@ for ch in s:
         print(k,'.',end='')
         for i in range(0,v):
             print('*',end='')
-        print()
+        print())
